@@ -1,2 +1,1 @@
-hogehoge
-added line
+added line 2
